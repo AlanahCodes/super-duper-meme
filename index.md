@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Alanah's page
+
+Here's what I did for DS105.
 
 You can use the [editor on GitHub](https://github.com/AlanahCodes/super-duper-meme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
