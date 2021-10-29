@@ -1,27 +1,18 @@
 ## Welcome to Alanah's page
 
-Here's what I did for DS105.
+Here's a little website on what I'm doing for my philosophy dissertation.
 
-You can use the [editor on GitHub](https://github.com/AlanahCodes/super-duper-meme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# My Title
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How the use of AI in Commercial Platforms Increases Power Imbalances, and what to do about it!
 
-### Markdown
+## Philosophical themes my essay will explore
+1. **Epistemology** - How AI and machine learning algorithms enable the exploitation of Big Data to create new ways of knowing about ourselves
+2. **Ethics** - How privacy and explainability issues resulting from these techniques create distinct ethical issues
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## Socio-political themes my essay will explore
+3. **Power** - How these ethical issues translate into power imbalances between commercial enterprises and consumers
+4. **Regulation** - How the state can regulate these technological tools to address 2 and 3
 
 **Bold** and _Italic_ and `Code` text
 
